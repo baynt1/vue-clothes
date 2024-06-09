@@ -1,94 +1,94 @@
 @font-face {
-  font-family: 'integral_cfbold';
-  src: url('./fontspring-demo-integralcf-bold.otf') format('opentype');
+  font-family: 'Integral CF';
+  src: url('./Fontspring-DEMO-integralcf-bold.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'Integral CF';
+  src: url('./Fontspring-DEMO-integralcf-boldoblique.otf') format('opentype');
+  font-weight: 900;
+  font-style: italic;
+
+}
+
+@font-face {
+  font-family: 'Integral CF';
+  src: url('./Fontspring-DEMO-integralcf-demibold.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'Integral CF';
+  src: url('./Fontspring-DEMO-integralcf-demiboldoblique.otf') format('opentype');
+  font-weight: 800;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Integral CF';
+  src: url('./Fontspring-DEMO-integralcf-extrabold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'Integral CF';
+  src: url('./Fontspring-DEMO-integralcf-extraboldoblique.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+
+}
+
+@font-face {
+  font-family: 'Integral CF';
+  src: url('./Fontspring-DEMO-integralcf-heavy.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'Integral CF';
+  src: url('./Fontspring-DEMO-integralcf-heavyoblique.otf') format('opentype');
+  font-weight: 600;
+  font-style: italic;
+
+}
+
+@font-face {
+  font-family: 'Integral CF';
+  src: url('./Fontspring-DEMO-integralcf-medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'Integral CF';
+  src: url('./Fontspring-DEMO-integralcf-mediumoblique.otf') format('opentype');
+  font-weight: 500;
+  font-style: italic;
+
+}
+
+@font-face {
+  font-family: 'Integral CF';
+  src: url('./Fontspring-DEMO-integralcf-regular.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 
 }
 
 @font-face {
-  font-family: 'integral_cfbold_oblique';
-  src: url('./fontspring-demo-integralcf-boldoblique.otf') format('opentype');
+  font-family: 'Integral CF';
+  src: url('./Fontspring-DEMO-integralcf-regularoblique.otf') format('opentype');
   font-weight: normal;
-  font-style: normal;
-
-}
-
-@font-face {
-  font-family: 'integral_cfdemi_bold';
-  src: url('./fontspring-demo-integralcf-demibold.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-
-}
-
-@font-face {
-  font-family: 'integral_cfdemi_bold_oblique';
-  src: url('./fontspring-demo-integralcf-demiboldoblique.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'integral_cfextra_bold';
-  src: url('./fontspring-demo-integralcf-extrabold.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-
-}
-
-@font-face {
-  font-family: 'integral_cfextra_bold_oblique';
-  src: url('./fontspring-demo-integralcf-extraboldoblique.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-
-}
-
-@font-face {
-  font-family: 'integral_cfheavy';
-  src: url('./fontspring-demo-integralcf-heavy.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-
-}
-
-@font-face {
-  font-family: 'integral_cfheavy_oblique';
-  src: url('./fontspring-demo-integralcf-heavyoblique.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-
-}
-
-@font-face {
-  font-family: 'integral_cfmedium';
-  src: url('./fontspring-demo-integralcf-medium.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-
-}
-
-@font-face {
-  font-family: 'integral_cfmedium_oblique';
-  src: url('./fontspring-demo-integralcf-mediumoblique.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-
-}
-
-@font-face {
-  font-family: 'fontspring_demo_-_integral_Rg';
-  src: url('./fontspring-demo-integralcf-regular.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
-
-}
-
-@font-face {
-  font-family: 'fontspring_demo_-_integraRgOb';
-  src: url('./fontspring-demo-integralcf-regularoblique.otf') format('opentype');
-  font-weight: normal;
-  font-style: normal;
+  font-style: italic;
 
 }
